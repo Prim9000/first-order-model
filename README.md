@@ -1,6 +1,8 @@
 <b>!!! Check out our new [paper](https://arxiv.org/pdf/2104.11280.pdf) and [framework](https://github.com/snap-research/articulated-animation) improved for articulated objects</b>
 
 # We are using First Order Motion Model for Image Animation to bring Einstein back to life.
+![image](https://user-images.githubusercontent.com/65888725/158047066-b38936c5-2875-4159-8488-6180d6d1b4ed.png)
+
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
 
